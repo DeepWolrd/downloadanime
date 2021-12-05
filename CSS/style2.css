@@ -1,0 +1,127 @@
+body{
+    background: grey;
+    background-image: url("../Image/alice.png");
+    background-position: bottom right;
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.home{
+
+}
+b{
+   font-family: 'Carter One' , cursive;
+    color: white;
+    font-size: 40px;
+    letter-spacing: -1px;
+    background: rgb(156, 156, 156);
+    padding: 10px;
+    text-shadow: 2px 3px 1px black;;
+}
+.navi{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: rgb(105, 105, 105);
+    text-align: left;
+    width: 1335px;
+    height: 50px;
+}
+li{
+    list-style: none;
+    display: inline;
+}
+li a:hover{
+    text-decoration: underline;
+    color: rgb(245, 245, 245);
+}
+ul{
+    padding: 14px;
+    width: 310px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    padding: 10px;
+    color: white;
+    letter-spacing: -1px;
+    word-spacing: 1px;
+    spacing border-spacing: 0vh;
+}
+p{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: bold;
+    padding: 15px;
+    color: white;
+    letter-spacing: 1px;
+    background:rgb(105, 105, 105);
+    width:670px;
+}
+.comment_blog_line {
+    margin-top: 25px;
+    padding: 0 15px;
+}
+
+.bg_cont img{
+    width: 1100px;
+    height: 700px;
+}
+
+.col-md-1 img{
+    border-radius: 50%;
+}
+
+.comment .header h4{
+    color: white;
+    font-size: 30px;
+}
+
+.full_comment_form input{
+    width: 500px;
+    height: 20px;
+}
+
+textarea{
+    width: 502px;
+    height: 50px;
+}
+
+button{
+    height: 20px;
+    width: 50px;
+    background-color: white;
+    border-radius: 20px;
+}
+h3{
+    font-family: 'Carter One' , cursive;;
+    color:white;
+    text-shadow: 2px 3px 1px black;;
+}
+form {
+    width:370px;
+    margin: 1px 950px;
+    height: 1px;
+    padding: -3;
+}
+.search {
+    height: 20px;
+    width: 250px;
+    background:rgba(50, 50, 50, 0.2);
+    border:transparent;
+    b
+}
+.button {
+    position:relative;
+    left:-8px;
+    border:2px solid #53bd84;
+    background-color:#53bd84;
+    color:#fafafa;
+    height: 26px;
+}
+.button:hover  {
+    background-color:#fafafa;
+    color:#207cca;
+}
